@@ -35,4 +35,14 @@ This is a new project created from the local system.
 # Remote Repository
 1. git remote -v => Show remote links
 2. git remote add origin 'url' => Link local repo to remote
-3. git push -u origin main => Push main branch 
+3. git push -u origin main => Push main branch (-u = upstream)
+
+# Create a remote branch
+1. git push --set-upstream origin 'branch name'
+
+# Merging Code
+1. git diff 'branch name' => To compare commits, branches, files & more
+2. git merge 'branch name' => to merge 2 branches
+
+# OR Get a PR(Pull Request)
+    It lets you tel others abot changes you've pushed to a branch repository on GitHub.
