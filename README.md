@@ -27,9 +27,10 @@ This is a new project created from the local system.
 1. git branch => List branches
 2. git branch 'name' => Create a new branch
 3. git checkout 'name' => Switch to a branch
-4. git checkout -b 'name' => Create + switch branch
-5. git merge 'branch' => Merge another branch into current
-6. git branch -d 'name' => Delete a branch
+4. git branch -M main => to rename branch
+5. git checkout -b 'name' => Create + switch branch
+6. git merge 'branch' => Merge another branch into current
+7. git branch -d 'name' => Delete a branch
 
 # Remote Repository
 1. git remote -v => Show remote links
