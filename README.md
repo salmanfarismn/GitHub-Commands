@@ -35,4 +35,4 @@ This is a new project created from the local system.
 # Remote Repository
 1. git remote -v => Show remote links
 2. git remote add origin 'url' => Link local repo to remote
-3. git push -u origin main => Push main branch 
+3. git push -u origin main => Push main branch (-u = upstream)
