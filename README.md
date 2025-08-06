@@ -56,3 +56,8 @@ Case 2: committed changes(for one commit)
 Case 3: committed changes(For many changes)
     i. git reset 'commit hash'
     ii. git reset --hard 'commit hash'
+
+# What is Forking?
+A fork is a new repository that shares code and visibility settings with the original "upstream" repository.
+
+Fork is a rough copy.
