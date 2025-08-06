@@ -46,3 +46,13 @@ This is a new project created from the local system.
 
 # OR Get a PR(Pull Request)
     It lets you tel others abot changes you've pushed to a branch repository on GitHub.
+
+# Fixing mistakes
+Case 1: staged changes
+    i. git reset 'filename'
+    ii. git reset
+Case 2: committed changes(for one commit)
+    i. git reset HEAD~1
+Case 3: committed changes(For many changes)
+    i. git reset 'commit hash'
+    ii. git reset --hard 'commit hash'
